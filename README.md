@@ -1,7 +1,8 @@
-# collaV
+##サイトタイトル
+collaV
 
 ## サイト概要
-個人Vtuber支援サイト
+個人Vtubeのコラボや交流の支援サイト
 
 ### サイトテーマ
 コラボの募集など、個人Vtuber同士の交流活性化
@@ -17,10 +18,17 @@ Vtuberの活動に携わっていた経験があり、その支援を行いた�
 また、何らかの募集情報がタイムラインから流れていかずに、目につきやすい状態を留められるようにする。
 
 ## 設計書
-<...>
+#ワイヤーフレーム
+https://www.figma.com/file/2Ya6SvHIw067BsagXlVBKp/collaV?node-id=0%3A1
+
+#テーブル定義書
+https://docs.google.com/spreadsheets/d/1TfyQG9dVSF_j0MrqUgx5z9ykNuOWQ9Pz/edit#gid=1965684060
+
+#ER図
+https://app.diagrams.net/#G11XCtoArGRrgn9KGpWgED3kfrfDy6xy9g
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/1HMNVUy_bvGCZLlXPowdypOaY-19cRieGBwlBx0Ibn1k/edit?usp=sharing>
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -31,4 +39,4 @@ Vtuberの活動に携わっていた経験があり、その支援を行いた�
 
 ## 使用素材
 - 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
+状況に応じて、追記予定
