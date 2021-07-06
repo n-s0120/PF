@@ -1,0 +1,2 @@
+class CollabFavorite < ApplicationRecord
+end

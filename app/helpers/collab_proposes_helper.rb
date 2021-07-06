@@ -1,0 +1,2 @@
+module CollabProposesHelper
+end

@@ -1,0 +1,2 @@
+class PlanFavorite < ApplicationRecord
+end

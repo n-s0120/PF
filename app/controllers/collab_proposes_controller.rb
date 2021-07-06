@@ -1,0 +1,2 @@
+class CollabProposesController < ApplicationController
+end
