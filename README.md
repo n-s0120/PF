@@ -1,5 +1,4 @@
-##サイトタイトル
-collaV
+# collaV
 
 ## サイト概要
 個人Vtubeのコラボや交流の支援サイト
@@ -21,10 +20,10 @@ Vtuberの活動に携わっていた経験があり、その支援を行いた�
 #ワイヤーフレーム
 https://www.figma.com/file/2Ya6SvHIw067BsagXlVBKp/collaV?node-id=0%3A1
 
-#テーブル定義書
+## テーブル定義書
 https://docs.google.com/spreadsheets/d/1TfyQG9dVSF_j0MrqUgx5z9ykNuOWQ9Pz/edit#gid=1965684060
 
-#ER図
+## ER図
 https://app.diagrams.net/#G11XCtoArGRrgn9KGpWgED3kfrfDy6xy9g
 
 ## チャレンジ要素一覧
@@ -36,7 +35,3 @@ https://app.diagrams.net/#G11XCtoArGRrgn9KGpWgED3kfrfDy6xy9g
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
-
-## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-状況に応じて、追記予定
